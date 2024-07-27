@@ -1,0 +1,226 @@
+{
+    "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations,customfield_10010.requestTypePractice",
+    "id": "10000",
+    "self": "https://chan-shun-hei.atlassian.net/rest/api/3/issue/10000",
+    "key": "KAN-1",
+    "fields": {
+        "statuscategorychangedate": "2024-07-26T21:38:19.302+0800",
+        "issuetype": {
+            "self": "https://chan-shun-hei.atlassian.net/rest/api/3/issuetype/10001",
+            "id": "10001",
+            "description": "Tasks track small, distinct pieces of work.",
+            "iconUrl": "https://chan-shun-hei.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+            "name": "Task",
+            "subtask": false,
+            "avatarId": 10318,
+            "entityId": "684a1095-bc04-48ec-814f-37fcf4f7d017",
+            "hierarchyLevel": 0
+        },
+        "timespent": null,
+        "customfield_10030": null,
+        "customfield_10031": null,
+        "project": {
+            "self": "https://chan-shun-hei.atlassian.net/rest/api/3/project/10000",
+            "id": "10000",
+            "key": "KAN",
+            "name": "Project Testing",
+            "projectTypeKey": "software",
+            "simplified": true,
+            "avatarUrls": {
+                "48x48": "https://chan-shun-hei.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410",
+                "24x24": "https://chan-shun-hei.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=small",
+                "16x16": "https://chan-shun-hei.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=xsmall",
+                "32x32": "https://chan-shun-hei.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=medium"
+            }
+        },
+        "customfield_10033": null,
+        "fixVersions": [],
+        "aggregatetimespent": null,
+        "resolution": {
+            "self": "https://chan-shun-hei.atlassian.net/rest/api/3/resolution/10000",
+            "id": "10000",
+            "description": "Work has been completed on this issue.",
+            "name": "Done"
+        },
+        "customfield_10027": null,
+        "customfield_10028": null,
+        "customfield_10029": null,
+        "resolutiondate": "2024-07-26T21:38:19.291+0800",
+        "workratio": -1,
+        "issuerestriction": {
+            "issuerestrictions": {},
+            "shouldDisplay": true
+        },
+        "lastViewed": "2024-07-26T23:57:14.980+0800",
+        "watches": {
+            "self": "https://chan-shun-hei.atlassian.net/rest/api/3/issue/KAN-1/watchers",
+            "watchCount": 1,
+            "isWatching": false
+        },
+        "created": "2024-07-25T19:55:37.545+0800",
+        "customfield_10020": null,
+        "customfield_10021": null,
+        "customfield_10022": null,
+        "priority": {
+            "self": "https://chan-shun-hei.atlassian.net/rest/api/3/priority/3",
+            "iconUrl": "https://chan-shun-hei.atlassian.net/images/icons/priorities/medium.svg",
+            "name": "Medium",
+            "id": "3"
+        },
+        "customfield_10023": null,
+        "customfield_10024": null,
+        "customfield_10025": "10000_*:*_4_*:*_91029937_*|*_10002_*:*_4_*:*_1400703_*|*_10001_*:*_1_*:*_131141",
+        "customfield_10026": null,
+        "labels": [],
+        "customfield_10016": null,
+        "customfield_10017": null,
+        "customfield_10018": {
+            "hasEpicLinkFieldDependency": false,
+            "showField": false,
+            "nonEditableReason": {
+                "reason": "PLUGIN_LICENSE_ERROR",
+                "message": "The Parent Link is only available to Jira Premium users."
+            }
+        },
+        "customfield_10019": "0|hzzzzz:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "issuelinks": [],
+        "assignee": {
+            "self": "https://chan-shun-hei.atlassian.net/rest/api/3/user?accountId=712020%3Ad3860dc8-60c5-4493-88cd-786de4513e4f",
+            "accountId": "712020:d3860dc8-60c5-4493-88cd-786de4513e4f",
+            "emailAddress": "chanshunhei09@gmail.com",
+            "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/f1f54a2ac124bc453a846a5d539c88d7?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCH-5.png",
+                "24x24": "https://secure.gravatar.com/avatar/f1f54a2ac124bc453a846a5d539c88d7?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCH-5.png",
+                "16x16": "https://secure.gravatar.com/avatar/f1f54a2ac124bc453a846a5d539c88d7?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCH-5.png",
+                "32x32": "https://secure.gravatar.com/avatar/f1f54a2ac124bc453a846a5d539c88d7?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCH-5.png"
+            },
+            "displayName": "Chan Shun Hei",
+            "active": true,
+            "timeZone": "Asia/Hong_Kong",
+            "accountType": "atlassian"
+        },
+        "updated": "2024-07-27T12:01:11.342+0800",
+        "status": {
+            "self": "https://chan-shun-hei.atlassian.net/rest/api/3/status/10002",
+            "description": "",
+            "iconUrl": "https://chan-shun-hei.atlassian.net/",
+            "name": "Done",
+            "id": "10002",
+            "statusCategory": {
+                "self": "https://chan-shun-hei.atlassian.net/rest/api/3/statuscategory/3",
+                "id": 3,
+                "key": "done",
+                "colorName": "green",
+                "name": "Done"
+            }
+        },
+        "components": [],
+        "timeoriginalestimate": null,
+        "description": null,
+        "customfield_10010": null,
+        "customfield_10014": null,
+        "timetracking": {},
+        "customfield_10015": null,
+        "customfield_10005": null,
+        "customfield_10006": null,
+        "customfield_10007": null,
+        "security": null,
+        "customfield_10008": null,
+        "customfield_10009": null,
+        "aggregatetimeestimate": null,
+        "attachment": [
+            {
+                "self": "https://chan-shun-hei.atlassian.net/rest/api/3/attachment/10000",
+                "id": "10000",
+                "filename": "logo.jpg",
+                "author": {
+                    "self": "https://chan-shun-hei.atlassian.net/rest/api/3/user?accountId=712020%3Ad3860dc8-60c5-4493-88cd-786de4513e4f",
+                    "accountId": "712020:d3860dc8-60c5-4493-88cd-786de4513e4f",
+                    "emailAddress": "chanshunhei09@gmail.com",
+                    "avatarUrls": {
+                        "48x48": "https://secure.gravatar.com/avatar/f1f54a2ac124bc453a846a5d539c88d7?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCH-5.png",
+                        "24x24": "https://secure.gravatar.com/avatar/f1f54a2ac124bc453a846a5d539c88d7?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCH-5.png",
+                        "16x16": "https://secure.gravatar.com/avatar/f1f54a2ac124bc453a846a5d539c88d7?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCH-5.png",
+                        "32x32": "https://secure.gravatar.com/avatar/f1f54a2ac124bc453a846a5d539c88d7?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCH-5.png"
+                    },
+                    "displayName": "Chan Shun Hei",
+                    "active": true,
+                    "timeZone": "Asia/Hong_Kong",
+                    "accountType": "atlassian"
+                },
+                "created": "2024-07-27T12:01:10.720+0800",
+                "size": 20048,
+                "mimeType": "image/jpeg",
+                "content": "https://chan-shun-hei.atlassian.net/rest/api/3/attachment/content/10000",
+                "thumbnail": "https://chan-shun-hei.atlassian.net/rest/api/3/attachment/thumbnail/10000"
+            }
+        ],
+        "summary": "Happy",
+        "creator": {
+            "self": "https://chan-shun-hei.atlassian.net/rest/api/3/user?accountId=712020%3Ad3860dc8-60c5-4493-88cd-786de4513e4f",
+            "accountId": "712020:d3860dc8-60c5-4493-88cd-786de4513e4f",
+            "emailAddress": "chanshunhei09@gmail.com",
+            "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/f1f54a2ac124bc453a846a5d539c88d7?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCH-5.png",
+                "24x24": "https://secure.gravatar.com/avatar/f1f54a2ac124bc453a846a5d539c88d7?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCH-5.png",
+                "16x16": "https://secure.gravatar.com/avatar/f1f54a2ac124bc453a846a5d539c88d7?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCH-5.png",
+                "32x32": "https://secure.gravatar.com/avatar/f1f54a2ac124bc453a846a5d539c88d7?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCH-5.png"
+            },
+            "displayName": "Chan Shun Hei",
+            "active": true,
+            "timeZone": "Asia/Hong_Kong",
+            "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "reporter": {
+            "self": "https://chan-shun-hei.atlassian.net/rest/api/3/user?accountId=712020%3Ad3860dc8-60c5-4493-88cd-786de4513e4f",
+            "accountId": "712020:d3860dc8-60c5-4493-88cd-786de4513e4f",
+            "emailAddress": "chanshunhei09@gmail.com",
+            "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/f1f54a2ac124bc453a846a5d539c88d7?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCH-5.png",
+                "24x24": "https://secure.gravatar.com/avatar/f1f54a2ac124bc453a846a5d539c88d7?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCH-5.png",
+                "16x16": "https://secure.gravatar.com/avatar/f1f54a2ac124bc453a846a5d539c88d7?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCH-5.png",
+                "32x32": "https://secure.gravatar.com/avatar/f1f54a2ac124bc453a846a5d539c88d7?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCH-5.png"
+            },
+            "displayName": "Chan Shun Hei",
+            "active": true,
+            "timeZone": "Asia/Hong_Kong",
+            "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+            "progress": 0,
+            "total": 0
+        },
+        "customfield_10001": null,
+        "customfield_10002": [],
+        "customfield_10003": null,
+        "customfield_10004": null,
+        "environment": null,
+        "duedate": null,
+        "progress": {
+            "progress": 0,
+            "total": 0
+        },
+        "votes": {
+            "self": "https://chan-shun-hei.atlassian.net/rest/api/3/issue/KAN-1/votes",
+            "votes": 0,
+            "hasVoted": false
+        },
+        "comment": {
+            "comments": [],
+            "self": "https://chan-shun-hei.atlassian.net/rest/api/3/issue/10000/comment",
+            "maxResults": 0,
+            "total": 0,
+            "startAt": 0
+        },
+        "worklog": {
+            "startAt": 0,
+            "maxResults": 20,
+            "total": 0,
+            "worklogs": []
+        }
+    }
+}
